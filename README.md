@@ -12,10 +12,9 @@
 >>引用内容  >>引用内容
 >>>引用内容  >>>引用内容
 ## 分割符
-连续输入---如下所示
-
+连续输入`---,***`如下所示，但是如果是---并且它的前一行是文字，则文字变成了一级标题
+***
 ---
-
 ## 列表
 * 这是一个无序列表 * 这是一个无序列表
 * 这是一个无序列表 * 这是一个无序列表
@@ -34,3 +33,9 @@
 3. 这是一个有序列表 3. 这是一个有序列表
 ## 链接
 [md文档攻略](https://github.com/Harrdy2018/Learning-README/blob/master/README.md)
+***
+也可以直接用尖括号包含网址的方式`<https://github.com/Harrdy2018/Learning-README/blob/master/README.md>`来构成链接
+***
+<https://github.com/Harrdy2018/Learning-README/blob/master/README.md>
+## 图片
+像构造链接一样，格式为`![图片信息](图片地址)`
