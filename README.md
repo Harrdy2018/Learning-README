@@ -39,3 +39,14 @@
 <https://github.com/Harrdy2018/Learning-README/blob/master/README.md>
 ## 图片
 像构造链接一样，格式为`![图片信息](图片地址)`
+<br>
+也可以用html方式来指定图片大小`<img src="" width="240px" height="240px" alt="jsx">`
+## 代码
+```python
+print("Hello")
+>>>Hello
+```
+## 字体样式
+* *倾斜*  `*倾斜*`
+* **加粗** `**加粗**`
+* ***倾斜加粗***   `***倾斜加粗***`
